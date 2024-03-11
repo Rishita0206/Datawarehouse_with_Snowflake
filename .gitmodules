@@ -1,0 +1,3 @@
+[submodule "data-warehouse-snowflake-for-data-engineering"]
+	path = data-warehouse-snowflake-for-data-engineering
+	url = https://github.com/Rishita0206/Datawarehouse_with_Snowflake.git
